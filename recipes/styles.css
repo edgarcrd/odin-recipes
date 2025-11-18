@@ -2,9 +2,18 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-left: 200px;
+  margin-right: 200px;
 }
 
-
 .enchiladas {
+  max-width: 50%;
+}
+
+.pozole {
+  max-width: 50%;
+}
+
+.churros {
   max-width: 50%;
 }
